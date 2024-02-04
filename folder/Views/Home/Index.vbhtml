@@ -13,7 +13,7 @@ End Code
         <section class="col-md-4" aria-labelledby="gettingStartedTitle">
             <h2 id="gettingStartedTitle">Getting started</h2>
             <p>
-               Alvelu Sai Nikhil
+               Alvelu Sai Nikhil  
                location: DLF
             </p>
             <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
